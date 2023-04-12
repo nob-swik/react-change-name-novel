@@ -1,5 +1,7 @@
 # react-change-name-novel
 
+Reactでつくった名前変換小説
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
