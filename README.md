@@ -1,6 +1,7 @@
 # react-change-name-novel
 
 Reactでつくった名前変換小説
+https://nob-swik.github.io/react-change-name-novel/
 
 # Getting Started with Create React App
 
